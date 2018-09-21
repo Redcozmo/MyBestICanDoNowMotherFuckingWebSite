@@ -1,3 +1,6 @@
 THP-S0
 
-Amélioration du repository motherfuckingwebsite
+Version améliorée du MotherFuckingWebSite sur la base du BetterMotherFuckingWebSite avec quelques modifications.
+
+Version en production :
+
