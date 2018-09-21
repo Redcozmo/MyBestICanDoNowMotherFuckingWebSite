@@ -1,0 +1,39 @@
+body{
+  color: #494C4D;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+h1{
+  font-size: 30px;
+  line-height: 40px;
+}
+
+h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+#Titre{
+  font-size: 35px;
+  line-height: 50px;
+}
+
+
+#epilogue{
+  border-top: 2px solid #494C4D;
+  padding-top: 12px;
+}
+
+q, #citation{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#center{
+  text-align: center;
+}
