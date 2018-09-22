@@ -7,5 +7,5 @@ Ajout d'un POPUP JavaScript
 Et il s'appelle donc MyBestICanNowMotherFuckingWebSite
 
 Version en production :
-https://redcozmo.github.io/MyBestICanNowMotherFuckingWebSite/
+https://redcozmo.github.io/MyBestICanDoNowMotherFuckingWebSite/
 
