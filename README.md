@@ -6,7 +6,7 @@ Ajout d'un POPUP JavaScript.
 
 Ajout d'un mode psychédélique activable au bouton.
 
-Et il s'appelle donc MyBestICanNowMotherFuckingWebSite.
+Et il s'appelle donc MyBestICanDoNowMotherFuckingWebSite.
 
 Version en production :
 https://redcozmo.github.io/MyBestICanDoNowMotherFuckingWebSite/
