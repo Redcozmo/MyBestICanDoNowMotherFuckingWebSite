@@ -1,11 +1,33 @@
-body{
-  color: #494C4D;
+#container{
   width: 650px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 10px;
   font-size: 18px;
   line-height: 28px;
+}
+
+.normalmode{
+  color: #494C4D;
+}
+
+.psychemode{
+    background-color: magenta;
+}
+
+.psychemode p{
+  color: blue;
+  font-family: "papyrus", sans-serif;
+}
+
+.psychemode h1{
+  color: green;
+  font-family: "Comic Sans Ms", sans-serif;
+}
+
+.psychemode h2{
+  color: green;
+  font-family: "Comic Sans Ms", sans-serif;
 }
 
 h1{
@@ -23,7 +45,6 @@ h2{
   line-height: 50px;
 }
 
-
 #epilogue{
   border-top: 2px solid #494C4D;
   padding-top: 12px;
@@ -36,4 +57,12 @@ q, #citation{
 
 #center{
   text-align: center;
+}
+
+button{
+  background-color: magenta;
+  position: fixed;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
